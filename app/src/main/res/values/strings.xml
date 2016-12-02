@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Skocko</string>
+    <string name="timer">Preostalo vreme:</string>
+    <string name="button_start">START</string>
+    <string name="point_score">Broj poena:</string>
+    <string name="numofattempts">Broj pokusaja:</string>
+    <string name="time_ran_out">Vase vreme je nazalost isteklo</string>
+    <string name="empty_fields">Postoje nepopunjena polja u vasem izboru</string>
+    <string name="winning_combinations">Cestitamo!Pogodili ste pobednicku kombinaciju!</string>
+</resources>
